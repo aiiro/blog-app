@@ -11,3 +11,10 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+app/tmp
+app/Plugin
+app/Vendor
+app/reports
+app/Config/bootstrap/environments/staging.php
+
+.DS_Store

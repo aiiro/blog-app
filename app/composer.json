@@ -1,0 +1,17 @@
+{
+    "name": "aiiro/blog-app",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aiiro",
+            "email": "mail@addres.com"
+        }
+    ],
+    "config": {
+    	"vendor-dir": "Vendor"
+    },
+    "require": {
+        "cakephp/cakephp": "2.8.*",
+        "josegonzalez/cakephp-environments": "1.0.0"
+    }
+}
