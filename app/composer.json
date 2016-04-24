@@ -12,6 +12,7 @@
     },
     "require": {
         "cakephp/cakephp": "2.8.*",
-        "josegonzalez/cakephp-environments": "1.0.0"
+        "josegonzalez/cakephp-environments": "1.0.0",
+        "cakedc/migrations": "~2.4.1"
     }
 }

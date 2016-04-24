@@ -4,9 +4,47 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b2ebdec52c8a47bb2d0f5db2b208c2b7",
-    "content-hash": "6d2c5494ac46a4ff8da6c86b8a06a04e",
+    "hash": "a58203e89ab178e8edddc6e42f3787aa",
+    "content-hash": "2ef6877add7ac5d6f30a1babf69d0a7a",
     "packages": [
+        {
+            "name": "cakedc/migrations",
+            "version": "2.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CakeDC/migrations.git",
+                "reference": "a8b53d8c5dba53fc48ae3f263f2d008b6787973f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CakeDC/migrations/zipball/a8b53d8c5dba53fc48ae3f263f2d008b6787973f",
+                "reference": "a8b53d8c5dba53fc48ae3f263f2d008b6787973f",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "*",
+                "php": ">=5.2.8"
+            },
+            "type": "cakephp-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Cake Development Corporation",
+                    "email": "team@cakedc.com",
+                    "homepage": "http://cakedc.com"
+                }
+            ],
+            "description": "Migrations Plugin for CakePHP",
+            "homepage": "http://cakedc.com",
+            "keywords": [
+                "cakephp",
+                "migrations"
+            ],
+            "time": "2015-12-18 10:32:40"
+        },
         {
             "name": "cakephp/cakephp",
             "version": "2.8.3",
