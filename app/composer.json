@@ -17,6 +17,7 @@
         "phpunit/phpunit": "3.7.37"
     },
     "require-dev": {
-        "sizuhiko/fabricate": "1.*"
+        "sizuhiko/fabricate": "1.*",
+        "fzaninotto/faker": "1.4.*"
     }
 }
