@@ -15,5 +15,8 @@
         "josegonzalez/cakephp-environments": "1.0.0",
         "cakedc/migrations": "~2.4.1",
         "phpunit/phpunit": "3.7.37"
+    },
+    "require-dev": {
+        "sizuhiko/fabricate": "1.*"
     }
 }
