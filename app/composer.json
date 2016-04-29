@@ -19,6 +19,7 @@
     },
     "require-dev": {
         "sizuhiko/fabricate": "1.*",
-        "fzaninotto/faker": "1.4.*"
+        "fzaninotto/faker": "1.4.*",
+        "phing/phing": "~2.8"
     }
 }
