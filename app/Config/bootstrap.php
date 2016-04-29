@@ -58,6 +58,8 @@ include dirname(__FILE__) . DS . 'bootstrap' . DS . 'environments.php';
  * CakePlugin::loadAll(); // Loads all plugins at once
  * CakePlugin::load('DebugKit'); // Loads a single plugin named DebugKit
  */
+CakePlugin::load('Migrations');
+CakePlugin::load('BoostCake');
 
 /**
  * You can attach event listeners to the request lifecycle as Dispatcher Filter . By default CakePHP bundles two filters:
