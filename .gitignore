@@ -8,7 +8,6 @@
 # CakePHP 2
 
 /app/tmp/*
-/app/Config/database.php
 /vendors/*
 app/tmp
 app/Plugin
