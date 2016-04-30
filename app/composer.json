@@ -15,7 +15,10 @@
         "josegonzalez/cakephp-environments": "1.0.0",
         "cakedc/migrations": "~2.4.1",
         "phpunit/phpunit": "3.7.37",
-        "slywalker/boost_cake": "*"
+        "slywalker/boost_cake": "*",
+        "cakedc/users": "2.*",
+        "cakedc/utils": "*",
+        "cakedc/search": "*"
     },
     "require-dev": {
         "sizuhiko/fabricate": "1.*",
